@@ -21,3 +21,16 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Node.js (för frontend)
+node_modules/
+dist/
+build/
+.env
+
+# ASP.NET Core (för backend)
+bin/
+obj/
+.vscode/
+*.db
+*.log
